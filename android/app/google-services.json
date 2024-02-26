@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865646759319",
+    "project_id": "ride-app-8285d",
+    "storage_bucket": "ride-app-8285d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865646759319:android:b036a5ad51114ed95808d2",
+        "android_client_info": {
+          "package_name": "com.dotcoder.green_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDGiYE7DYKfERD8z99bspPYrfw9SI41bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
